@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Kasir\Kasir\bin\Debug\Kasir.exe.config
+C:\Users\HP\source\repos\Kasir\Kasir\bin\Debug\Kasir.exe
+C:\Users\HP\source\repos\Kasir\Kasir\bin\Debug\Kasir.pdb
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.login.resources
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.Properties.Resources.resources
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.regis.resources
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.exe
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.pdb
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.homee.resources
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.cash.resources
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.selesai1.resources
+C:\Users\HP\source\repos\Kasir\Kasir\obj\Debug\Kasir.transaksi.resources
